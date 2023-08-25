@@ -1,6 +1,6 @@
 {
 //"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;410df6c3274dab8d5bdfb44d04c40882",
-"spider": "https://ghproxy.com/https://github.com/dk393722/tv/blob/23eb9a64eb0c13a44f6e6c4d04a6f21ce8271716/JAR/Yoursmile.jar",
+"spider": "./JAR/Yoursmile.jar",
 //"wallpaper":"http://maoyingshi.cc/api.php",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2RrMzkzNzIyL3R2Ym94MTEvbWFpbi9saXZlMi50eHQ="]}]}],
