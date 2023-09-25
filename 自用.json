@@ -5,7 +5,7 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2RrMzkzNzIyL3R2Ym94MTEvbWFpbi9saXZlMi50eHQ="]}]}],
 "sites":[
-{"key":"js豆瓣","name":"🌈豆瓣榜单(自用勿传播)","type":3,"api":"https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://jihulab.com/duomv/duox/-/raw/main/js/douban.js"},
+{"key":"csp_DouDou","name":"🌈豆瓣榜单(自用勿传播)","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1,"changeable":0},
 //{"key":"js豆瓣","name":"豆瓣","type":3,"api":"https://jihulab.com/duomv/duo/-/raw/main/js/doubanbf.js","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_YGP","name":"新片|速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 
