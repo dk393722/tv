@@ -18,7 +18,7 @@
       "searchable":1,
       "filterable":1,
       "changeable":1,
-      "ext":{"token":"https://raw.githubusercontent.com/dk393722/tv/main/token.txt",
+      "ext":{"token":"https://raw.githubusercontent.com/dk393722/tv/main/token.txt"},
       "filter":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json",
       "danmu":true},
       "jar":"./JAR/Yoursmile.jar",
