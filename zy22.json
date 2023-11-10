@@ -18,7 +18,8 @@
     "name":"redirect",
     "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlYmVyZy5vcmcveWdiaDg4ODgvQkgvcmF3L2JyYW5jaC9tYWluL1pCL1pCLnR4dA=="]}]
     }],
-//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://codeberg.org/dk6633963/tv/raw/branch/main/live2.txt"]}]}],"sites":[
+//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://codeberg.org/dk6633963/tv/raw/branch/main/live2.txt"]}]}],
+"sites":[
 //{"key":"js豆瓣","name":"🌈豆瓣榜单(自用勿传播)","type":3,"api":"https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://jihulab.com/duomv/duox/-/raw/main/js/douban.js"},
 {"key":"csp_DouDou","name":"🌈豆瓣榜单(自用勿传播)","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1,"changeable":0},
 {"key": "csp_KungFu404","name": "阿里设置","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 0,"changeable": 0,"jar": "./JAR/阿里设置.jar"},
@@ -36,6 +37,8 @@
 {"key":"csp_AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Alist.json"},
 {"key":"csp_土狗","name":"阿里|土狗","type":3,"api":"csp_TuGou","ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$socks5://192.168.101.1:1080"},
 {"key": "xml_玩偶","name": "玩偶4K","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=https://jihulab.com/0004/0/-/raw/main/tk.php","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
+
 
 
 {"key": "XYQH_电影港","name": "港口","type": 3,"playerType": 1,"api": "csp_XYQHiker","jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C","ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/港口.json"},
