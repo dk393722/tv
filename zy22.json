@@ -3,8 +3,22 @@
 "spider": "./JAR/AAA.jar",
 //"wallpaper":"http://maoyingshi.cc/api.php",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://codeberg.org/dk6633963/tv/raw/branch/main/live2.txt"]}]}],
-"sites":[
+"lives":[
+   
+{
+      "name": "live",
+      "url": "https://codeberg.org/dk6633963/tv/raw/branch/main/live2.txt",
+      "type": 0,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+    },    
+    {"group":"redirect",
+    "channels":[{
+    "name":"redirect",
+    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlYmVyZy5vcmcveWdiaDg4ODgvQkgvcmF3L2JyYW5jaC9tYWluL1pCL1pCLnR4dA=="]}]
+    }],
+//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://codeberg.org/dk6633963/tv/raw/branch/main/live2.txt"]}]}],"sites":[
 //{"key":"js豆瓣","name":"🌈豆瓣榜单(自用勿传播)","type":3,"api":"https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://jihulab.com/duomv/duox/-/raw/main/js/douban.js"},
 {"key":"csp_DouDou","name":"🌈豆瓣榜单(自用勿传播)","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1,"changeable":0},
 {"key": "csp_KungFu404","name": "阿里设置","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 0,"changeable": 0,"jar": "./JAR/阿里设置.jar"},
