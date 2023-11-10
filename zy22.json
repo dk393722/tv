@@ -1,6 +1,6 @@
 {
 //"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;410df6c3274dab8d5bdfb44d04c40882",
-"spider": "./JAR/ASA.jar",
+"spider": "./JAR/AAA.jar",
 //"wallpaper":"http://maoyingshi.cc/api.php",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://codeberg.org/dk6633963/tv/raw/branch/main/live2.txt"]}]}],
