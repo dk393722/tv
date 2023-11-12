@@ -7,7 +7,7 @@
    
 {
       "name": "live",
-      "url": "https://codeberg.org/dk6633963/tv/raw/branch/main/live2.txt",
+      "url": "https://raw.githubusercontent.com/dk393722/tv/main/live2.txt",
       "type": 0,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
