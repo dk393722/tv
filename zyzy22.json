@@ -40,6 +40,7 @@
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 
 
+{"key": "Bdys_spider","name": "哔滴","api": "csp_Bdys01","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://www.bdys03.com/$$$null$$$1"},
 {"key":"NOND","name":"NOND","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"data-toggle=&&</li>","线路标题":">&&</a>[替换:（>>共#）>>集][不包含:视频下载 (夸克网盘)#不要]","播放数组":"<ul class=\"stui-content__playlist&&</ul>","图片": "data-original=\"&&\"","链接": "href=\"&&\"","标题": "title=\"&&\"","副标题": "pic-text text-right\">&&</span>","简介":"class=\"detail-content\"style=*>&&</span>","搜索url": "https://novipnoad.vip/search/{wd}----------{catePg}---.html","分类url": "https://novipnoad.vip/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;mak", "分类": "短剧$21#电影$1#电视剧$2#综艺$4#动漫$3#解说$24#纪录片$30#体育比赛$20#足球$26#篮球$27#网球$28#斯诺克$29"}},
 {"key": "XYQH_电影港","name": "港口","type": 3,"playerType": 1,"api": "csp_XYQHiker","jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C","ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/港口.json"},
 {"key":"csp_Jianying","name":"简影","api":"csp_Jianying","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"hjju123@qq.com$$$123456"},
