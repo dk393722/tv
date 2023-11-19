@@ -102,6 +102,7 @@
                 "欧美综艺"
             ]
         },
+{"key": "视觉","name": "视觉","type": 3,"api": "csp_Appto","searchable": 1,"quickSearch": 1,"playerType": 2,"filterable": 1,"ext": "jrytgWz8W3BsIGIs/QktiAoZ7DtDplwV9Pg7bF8WHnTF5F2klyA77RixFCdoINLj8nCqhlMNuwB1Pb2inNFkZjh8RyGN7ZiOnqpb+aNKTWc/Jck9cfN+SNPCNjjnciGaRqH02Q0iKQBwU/zWOS96pWBxD9lY0qzeNbz4IrokjL7REfCrRVCcOVrXRuY+Pqa4W64no+kOxEzgiXo2D2z1M5rewxwQD0hMFq8psl+TndXgy3T02vKjjNzGT6U7IqR2O1BPEj7GbFWtGZHeYsMp9/hvlhKj6zpekdc/TuxTAQ5+zLGSoL5rrwLOlEr+OSpeT8C6bDxI9wvvmIoFMLMmgHEo2weV2KgP6r6MONUo7B7UlSWSydzHsXYKjcM0Z0kk5GO6eCn2/H3nDnhccyOtL101S4JRTPAsF4FStqYRibK/I1jwUd8+tUxUKtHRqb2tSD5g0HzcKjZGSCvw/drZKG2dEtOEFhb8f6b3f+UH6f8oGOPrw5n/sUmWoMtNV6qO0uXgisoIBGcesdlXaZd7ZmFwecyipGGkUh2L+uHKTpGBYXpwYZweuESOdeaemVcEiPWs0uvWxi3fQHvhYyVOORJxrVWwwkxAOUGbQCCXxeghANz9NPwK6ff6siV0+p2486wXV55TX8rR8UakzQ1f7/5PaFp5FnjQEzwmkPF/zzE4="},
 {"key": "影探VIP","name": "影探","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vipcms.lyyytv.cn/api.php/app/"},
 {"key":"轻简影视","name":"轻简","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/","categories":["电影","电视剧","综艺","动漫"]},	
 {"key": "js_影探","name": "侦探4K","type": 3,"api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/侦探.js"},
