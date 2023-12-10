@@ -40,6 +40,7 @@
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 
 
+{"key":"csp_Hmys","name":"河马","type":3,"api":"csp_Hmys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://m.jmzp.net.cn"},
 {"key": "js_98k","name": "九八","type": 3,"api": "https://jihulab.com/wuzei/0/-/raw/main/lib/api.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://shixiong.alwaysdata.net/js/98k.js"},
 {"key":"蜂鸟","name":"蜂鸟","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5QqOrspmMoZYCIIND24O/vn7yUhWQcuI8HjexlGPt+etACSwf3iKwX4rh3ktWiMrCNspYRZYUM6f0R/eKT9M0yoRk6EyAfugfSU="},
 {"key": "蝴蝶","name": "蝴蝶","type": 3,"api": "csp_Hudie","playerType": 2,"ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"},
