@@ -11,7 +11,7 @@
         },
         {
             "name": "🍧观影大全备用",
-            "url": "https://raw.gitcode.com/njyy/jy/raw/master/520.json"
+            "url": "http://530.my3v.work/1.json"
         },
 
 
