@@ -1,17 +1,35 @@
 {
     "urls": [
-    
+
+   {
+            "name": "🌺综合大全",
+            "url": "https://agit.ai/hu/sj/raw/branch/master/520.json"
+        },
+ 
  {
-            "name": "💢综合大全",
+            "name": "💐大全接口",
             "url": "https://agit.ai/hu/hcr/raw/branch/master/10086.json"
         },
         {
-            "name": "🍳观影大全",
-            "url": "https://agit.ai/hu/sj/raw/branch/master/520.json"
+            "name": "🎬看玩偶4K",
+            "url": "https://agit.ai/hu/sj/raw/branch/master/520.txt"
         },
+
+     {
+            "name": "🍄华影视TV",
+            "url": "http://host407776532.s1169.pppf.com.cn/hys/hysjk12.json"
+        },
+
+
+
+    {
+            "name": "🇨🇳央视专线",
+            "url": "https://agit.ai/hu/sj/raw/branch/master/520zg.txt"
+        },
+
         {
-            "name": "🍧观影大全备用",
-            "url": "http://530.my3v.work/1.json"
+            "name": "🍫大全备用👇",
+            "url": "https://raw.gitcode.com/njyy/nj/raw/master/520.json"
         },
 
 
@@ -20,9 +38,44 @@
             "name": "🎎短剧大全",
             "url": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json"
         },
-
+ 
   
-      
+    {
+            "name": "🍡短剧十四",
+            "url": "https://biu.codered.cloud/wp-content/uploads/2023/11/你的短剧接口.bmp"
+        },  
+{
+            "name": "🍚饭太硬好",
+            "url": "http://饭太硬.top/tv"
+        },
+{"name": "🦊 青木1线","url":"http://530.my3v.work/tvbox/微风主线/微风主线.json
+"},
+ {"name": "🦊 青木2线","url":"http://530.my3v.work/tvbox/微风辅线/微风辅线.json
+"},
+ {"name": "🎧娱乐专线","url":"http://530.my3v.work/tvbox/微风娱乐/微风娱乐.json
+"},
+{"name": "🐳动漫专线","url":"http://530.my3v.work/tvbox/动漫专线/动漫专线.json
+"},
+ {"name": "🏋🏻体育专线","url":"http://530.my3v.work/tvbox/微风体育/微风体育.json
+"},
+ {"name": "🐸少儿专线","url":"http://530.my3v.work/tvbox/微风教育/微风教育.json
+"},
+{"name": "🍄 吾爱专线","url":"http://530.my3v.work/tvbox/微风吾爱/微风吾爱.json"},
+
+{
+            "name": "❤️CatT4口",
+            "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json"
+        },
+
+{
+            "url": "http://肥猫.live/",
+            "name": "🐼肥猫接口"
+        },
+{
+            "name": "🌿春溢天下",
+            "url": "https://wds.ecsxs.com/230989.json"
+        },
+
     {
             "name": "🎁盒子里面",
             "url": "https://hezi.tvboxhz.top/TVBOX盒子"
@@ -43,10 +96,7 @@
 
 
 
- {
-            "name": "🍚饭太硬好",
-            "url": "http://饭太硬.top/tv"
-        },
+ 
  {
       "url": "http://tvkj.top/DC/dd/tvkj/svip.json",
       "name": "🚦多多家庭"
@@ -61,11 +111,6 @@
  {"name": "🍭教育专线","url": "https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt"},
  {"name": "🍭少儿益智","url": "http://qrh.yimkj.cn/se/少儿.json"},
 {"url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌","name": "🏰 欧歌家庭"}, {"url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌","name": "💚欧歌阿里"}, {"url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌","name": "💖欧歌学习"},
-{
-            "url": "http://肥猫.live/",
-            "name": "🐼肥猫接口"
-        },
-
 {
             "name": "🐭喵影视源",
             "url": "http://meowtv.cn/tv"
@@ -92,8 +137,6 @@
             "name": "🥃业余打發",
             "url": "http://ftp6587948.host121.sanfengyun.cn/yydf/yydfjk.json"
         },
- {"name": "🐳动漫专线","url":"https://www.yingm.cc/dm/dm.json"},
-
 {
       "name": "🌹恒星接口",
       "url": "https://codeberg.org/hengxing/hx/raw/branch/main/1031hxzx.txt"
@@ -162,10 +205,6 @@
             "url": "http://qrh.yimkj.cn/qrh/千软汇.json",
             "name": "🔱千软汇聚"
         },
-{
-            "name": "🌿春溢天下",
-            "url": "https://wds.ecsxs.com/230989.json"
-        },
      {
             "name": "🐯老虎专线",
             "url": "https://codeberg.org/jgfx/1024/raw/branch/main/1102.json"
@@ -224,14 +263,6 @@
 {
             "name": "🏄🏻abc影视",
             "url": "https://agit.ai/n/b/raw/branch/a/b/c.json"
-        },
-{
-            "name": "🛠非凡工具",
-            "url": "https://codeberg.org/jgfx/dym/raw/branch/master/master825.json"
-        },
-{
-            "name": "🌴CatT4口",
-            "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json"
         },
 {
             "name": "🌿Cat接口",
