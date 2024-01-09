@@ -148,7 +148,7 @@
 {"key":"泥巴","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"ext":"0;socks5://192.168.5.227:4592"},
 {"key":"csp_Dmdh","name":"多米","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.dmdh.top/api.php/app/"},
 {"key":"sliu_spider","name":"石榴","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"","jar":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
-{"key":"csp_DiDuan" ,"name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_DiDuan" ,"name":"低端","type":3,"api":"csp_Ddrk","playerType": "2","searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key":"快看","name":"快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/?ac=list","searchable":1,"categories":["韩国剧","欧美剧","动作片","科幻片","爱情片","综艺","动漫","记录片"]},
 {"key":"csp_Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name":"Libvio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
