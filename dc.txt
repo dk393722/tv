@@ -1,6 +1,13 @@
 {
     "urls": [
 
+{
+            "name": "🌺宝盒",
+            "url": "https://gitee.com/guot54/YGBH777/raw/main/ygbox.json"
+        },
+
+
+
    {
             "name": "🌺综合大全",
             "url": "https://agit.ai/hu/sj/raw/branch/master/520.json"
