@@ -10,6 +10,9 @@
             "name": "青木",
             "url": "https://tvbox.aoki.fun/M"
         },
+{"name": "玉玉","url":"http://8.210.232.168/xc.json"},
+
+ {"name": "星辰","url":"http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/xc.json"},
 
    {
             "name": "太阳",
