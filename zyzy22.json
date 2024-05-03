@@ -28,7 +28,7 @@
 {"key":"YunSo","name":"小云","type":3,"api":"csp_YunSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://gitlab.com/dk6633963/tv/-/raw/main/token.txt?ref_type=heads+4k|auto|fhd"},
 {"key":"YunPanOne","name":"云盘","type":3,"api":"csp_YunPanOne","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://gitlab.com/dk6633963/tv/-/raw/main/token.txt?ref_type=heads+4k|auto|fhd"},
 {"key":"Gitcafe", "name": "纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext":"https://gitlab.com/dk6633963/tv/-/raw/main/token.txt?ref_type=heads+4k|auto|fhd" , "timeout":30},
-
+{"key":"夸搜","name":"夸搜","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {"pan":"quark","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd"}},
 
 		
 {"key":"苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
