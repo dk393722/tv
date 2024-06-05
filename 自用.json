@@ -4,6 +4,8 @@
 
 	"sites":[
 
+
+{"key": "lf_js_search","name": "主༒页","type": 3,"searchable": 0,"changeable": 0,"quickSearch": 0,"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/lf_search3_domestic_min.js"},
 {"key": "豆瓣","name": "豆༒瓣","type": 3,"api": "csp_Douban","searchable": 0,"changeable": 1,"ext": "./json/douban.json"},
 {"key":"csp_WoGG","name":"玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://raw.githubusercontent.com/dk393722/tv/main/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 {"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://raw.githubusercontent.com/dk393722/tv/main/token.txt+4k|auto|fhd"},
