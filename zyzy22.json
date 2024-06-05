@@ -32,7 +32,7 @@
 {"key": "多多弹幕","name": "多多4K弹幕", "type": 3, "api": "csp_Wobg", "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php", "quickSearch": 1, "changeable": 1, "filterable": 1,"ext": {"token": "http://127.0.0.1:9978/file/TVBox/token.txt","cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt", "site": "https://tv.yydsys.top/", "danmu": true }, "timeout": 25 },
 
 
-
+{"key": "小猫","name": "小猫","type": 1,"api": "http://zy.xiaomaomi.cc/api.php/provide/vod/at/json/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","欧美剧","韩剧","悬疑片","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","记录片"],"playUrl":"json:http://42.51.37.161:5678/json/520239app9/gf2.php?url="},
 {"key":"dd004","name":"OLE","type":3,"api":"csp_XBPQe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://olevodtv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"},
 {"key":"小二_文才","name":"文才秒秒","type":3,"api":"csp_Wexwencai","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jars/wex0425.jar;md5;b2160310e1a54807295c369aa54f7196"},
 { "key": "newyt", "name": "影探4k线路","type": 3,"api": "csp_App", "jar": "./JAR/yt.jar","searchable": 1, "quickSearch": 1,"playerType": 1, "filterable": 0,
