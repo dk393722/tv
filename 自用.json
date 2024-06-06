@@ -10,6 +10,7 @@
 {"key": "配置中心","name": "OK配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"jar": "https://gitee.com/okjack/okk/raw/master/okjpg.txt","style": {"type": "rect","ratio": 1}},
 {"key": "网盘配置","name": "PG配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"ext": "./json/tokenm.json"},
 {"key":"csp_WoGG","name":"玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://raw.githubusercontent.com/dk393722/tv/main/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
+{"key": "玩偶表哥弹幕","name": "玩偶弟弟","type": 3,"api": "csp_Wobg","quickSearch": 1,"changeable": 1,"filterable": 1,"jar": "https://gitee.com/okjack/okk/raw/master/okjpg.txt","ext": {"token": "file://TV/ali_token.txt","cookie": "file://TV/quark_cookie.txt","danmu": true}},
 {"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://raw.githubusercontent.com/dk393722/tv/main/token.txt+4k|auto|fhd"},
 {"key":"PanSou","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://raw.githubusercontent.com/dk393722/tv/main/token.txt+4k|auto|fhd"},
 {"key":"UpYun","name":"UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://raw.githubusercontent.com/dk393722/tv/main/token.txt+4k|auto|fhd"},
