@@ -28,7 +28,7 @@
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://raw.githubusercontent.com/dk393722/tv/main/token.txt+4k|auto|fhd"},
 {"key":"csp_Wobg土豆网盘弹幕","name":"土豆","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://gitlab.com/dk6633963/tv/-/raw/main/token.txt?ref_type=heads+4k|auto|fhd$$$https://ali.lvdoui.top$$$1$$$./json/wogg.json", "timeout":30},
 {"key":"Bt0","name":"不太灵","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1"},
-{"key": "Xinshijue","name": "新视觉","type": 3,"api": "csp_Xinshijue","quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60,"ext": "./json/tokenm.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./lib/wogg.json"},
+{"key": "Xinshijue","name": "新视觉盘","type": 3,"api": "csp_Xinshijue","quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60,"ext": "./json/tokenm.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./lib/wogg.json"},
 {"key":"YingSo","name":"影搜","type":3,"api":"csp_YingSo","timeout":60, "ext":"https://gitlab.com/dk6633963/tv/-/raw/main/token.txt?ref_type=heads+4k|auto|fhd$$$1"},
 {"key":"盘友圈","name":"盘友圈","type":3,"api":"csp_Panyq","timeout":60, "ext":"https://gitlab.com/dk6633963/tv/-/raw/main/token.txt?ref_type=heads+4k|auto|fhd"},
 {"key":"88Pan","name":"88网盘","type":3,"api":"csp_EightEight","timeout":30, "ext":"https://gitlab.com/dk6633963/tv/-/raw/main/token.txt?ref_type=heads+4k|auto|fhd$$$https://662688.xyz"},
